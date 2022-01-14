@@ -9,8 +9,7 @@ from SkyzuRobot.events import register
 from SkyzuRobot import telethn as tbot
 
 
-PHOTO = "https://telegra.ph/file/56811b69cbcece20bbebf.jpg"
-
+PHOTO = "https://telegra.ph/file/28d57e9c2cb1794954488.jpg"
 
 @register(pattern=("/alive"))
 async def awake(event):
