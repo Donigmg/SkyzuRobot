@@ -43,7 +43,7 @@ async def repo(_, message):
                     InlineKeyboardButton(
                         "Repo", url="https://github.com/Skyzu/SkyzuRobot"
                     ),
-                    InlineKeyboardButton("Support", url="https://t.me/synsupport"),
+                    InlineKeyboardButton("Support", url="https://t.me/synxsupport"),
                 ]
             ]
         ),
