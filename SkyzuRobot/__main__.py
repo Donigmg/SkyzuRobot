@@ -465,9 +465,9 @@ def Skyzu_about_callback(update, context):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ​", url="t.me/synsupport"),
+                        InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ​", url="t.me/synxsupport"),
                         InlineKeyboardButton(
-                            text="ᴜᴘᴅᴀᴛᴇs​", url="https://t.me/synupdate"
+                            text="ᴜᴘᴅᴀᴛᴇs​", url="https://t.me/synxupdate"
                         ),
                     ],
                     [
